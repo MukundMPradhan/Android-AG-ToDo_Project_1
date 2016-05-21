@@ -57,7 +57,7 @@ public class CustomAdapter extends BaseAdapter {
         TextView txtdesc = (TextView) convertView.findViewById(R.id.tv_Desc_frmt);
         TextView txtdate = (TextView) convertView.findViewById(R.id.tv_Date_frmt);
         ImageView imageView = (ImageView) convertView.findViewById(R.id.imageView);
-        TextView headerDate = (TextView) convertView.findViewById(R.id.tv_Header_frmt);
+       // TextView headerDate = (TextView) convertView.findViewById(R.id.tv_Header_frmt);
 
 
         ToDo toDo = toDoArrayList.get(position);
@@ -69,7 +69,7 @@ public class CustomAdapter extends BaseAdapter {
         txtTitle.setText(toDo.getTitle());
         txtdesc.setText(toDo.getDescription());
         txtdate.setText(toDo.getDate());
-        headerDate.setText(toDo.getDate());
+        //headerDate.setText(toDo.getDate());
         txtHeaderDate.setVisibility(View.VISIBLE);
         txtID.setVisibility(View.GONE);
 
