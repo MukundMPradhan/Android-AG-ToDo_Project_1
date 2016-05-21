@@ -1,0 +1,2 @@
+CHANGED,/home/mukund/Android/And_Std_Prj/AcadGild/Android_Project_1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/assignments/acadgild/android_project_1/adapter/CustomAdapter$override.class
+CHANGED,/home/mukund/Android/And_Std_Prj/AcadGild/Android_Project_1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
